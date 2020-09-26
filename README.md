@@ -67,9 +67,12 @@ Inorder to tun python file in raspberry pi use the following cmd
 ```sh
 $LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1.2.0 python3 "PYTHON FILE".py
 ```
-link to sample working video:<a>https://www.youtube.com/watch?v=kzpoJactA7Q</a>
 
-
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=kzpoJactA7Q">
+         <img src="https://img.youtube.com/vi/kzpoJactA7Q/0.jpg" style="width:100%;">
+      </a>
+</div>
 License
 ----
 
